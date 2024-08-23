@@ -96,9 +96,4 @@ public class App {
         farenheit = (int) (celsius * ((double) 9 /5) + 32);
         return farenheit;
     }
-    // 10. Convert Celsius to Fahrenheit
-    public double celsiusToFahrenheit(double celsius) {
-        // TODO: Implement this method
-        return 0.0;
-    }
 }
